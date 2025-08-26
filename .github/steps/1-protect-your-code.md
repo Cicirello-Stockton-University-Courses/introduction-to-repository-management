@@ -106,9 +106,9 @@ We know many teachers use different tools, so let's make sure they don't acciden
 
    <img width="400" alt="image" src="https://github.com/user-attachments/assets/4e85948d-75c8-4c13-8ddd-4707bf9b0805" />
 
-1. Enter `prepare-to-collaborate` for the branch name then click the **Propose changes** button. You will be forwarded to a new page to start a new pull request. **IMPORTANT: Make sure the base for the pull request is the main branch of yuor fork of the assignment.**
+1. Enter `prepare-to-collaborate` for the branch name then click the **Propose changes** button. You will be forwarded to a new page to start a new pull request. 
 
-1. Set the title to `Prepare to collaborate` and click the **Create pull request** button. **Do NOT merge yet**, since we will be adding more collaboration related changes.
+1. Set the title to `Prepare to collaborate` and click the **Create pull request** button. **Do NOT merge yet**, since we will be adding more collaboration related changes. **IMPORTANT: Make sure the base for the pull request is the main branch of yuor fork of the assignment.**
 
 1. With the file committed, wait a moment for Mona to check your work, provide feedback, and share the next lesson.
 
