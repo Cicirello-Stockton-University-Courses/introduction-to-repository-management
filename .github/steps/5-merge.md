@@ -4,6 +4,8 @@ With all our preparations ready, it's time to release them!
 
 ## ⌨️ Activity: Merge our collaboration changes
 
+**IMPORTANT: For each of the pull requests below, make sure the `base` is set to the `main` branch of your fork of the assignment.**
+
 1. In the top navigation, select the **Pull requests** tab.
 
 1. Find the pull request for the `prepare-to-collaborate` branch and merge it. You may need to wait for your new security scans to finish.
