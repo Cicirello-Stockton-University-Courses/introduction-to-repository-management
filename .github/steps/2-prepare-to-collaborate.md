@@ -111,24 +111,6 @@ With others joining the fun, you want to stay involved on anything affecting arc
 
 1. With the files committed, wait a moment for Mona to check your work, provide feedback, and share the next lesson.
 
-## ⌨️ Activity: (Optional) Add your first collaborator
-
-Ready to let your colleague start working on that photo gallery feature? Let's do it!
-
-> [!IMPORTANT]
-> This step is optional because it requires another person with a GitHub account to participate.
-
-1. In the top navigation, select the **Settings** tab.
-
-1. In the left navigation, select **Collaborators**.
-
-1. Find the **Manage access** area and click the **Add people** button.
-
-   <img width="350" alt="" src="https://github.com/user-attachments/assets/686c32c6-11c2-4e69-bad1-39062d5b4376" />
-
-1. Enter a friend/colleague's GitHub username or email then press the **Add to repository** button.
-
-   <img width="350" alt="" src="https://github.com/user-attachments/assets/d0eaf344-baf0-4a9c-9291-c11e7a9fdaa3" />
 
 > [!IMPORTANT]
 > Personal repositories only have one collaboration role type. A "collaborator" receives **write** permissions but NOT **admin** permissions. If you need finer permissions, consider starting a free [organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) and assigning [repository roles](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization).
